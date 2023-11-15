@@ -17,13 +17,13 @@ import (
 )
 
 const (
-	paddingWidth      = 60
-	paddingHeight     = 60
+	paddingWidth      = 10
+	paddingHeight     = 10
 	windowHeight      = 20 * 3
 	windowHeightNoBar = 10
 	lineWidth         = 40
 
-	radius = 10
+	radius = 5
 )
 
 var (
